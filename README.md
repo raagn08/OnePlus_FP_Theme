@@ -13,6 +13,7 @@ To provide an option to choose fingerprint icons along with fingerprint animatio
 A thread dedicated to this theme can be found here: [DeadlyGhost FP Theme - XDA](http://bit.ly/2VXPRdd)
 
 GIF for the animation frames included in the theme:
+
 ![AnimationsGIF](https://i.imgur.com/yvwEv3L.gif)
 
 Refer to [Substratum Template](https://github.com/substratum/template) for more details regarding template.
